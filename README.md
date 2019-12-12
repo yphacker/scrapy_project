@@ -4,8 +4,8 @@
 [scrapy官方文档](https://doc.scrapy.org/en/latest/intro/tutorial.html)<br>
 [scrapy中文版]（https://scrapy-chs.readthedocs.io/zh_CN/1.0/）
 
-创建一个proxy项目<br>
-scrapy startproject proxy
+创建一个***项目<br>
+scrapy startproject ***
 
 启动程序
 scrapy crawl ***
@@ -17,4 +17,4 @@ xici代理爬取，可用于维护自己的代理池
 在豆瓣租房上寻找资源
 
 ## jandan
-图谱爬取demo# scrapy_project
+图谱爬取demo
